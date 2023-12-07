@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public title = 'Proyecto de aprender';
+  public title = 'Bases Angular';
   public counter: number = 10;
 
   public incrementBy(data: number): void {
